@@ -1,6 +1,14 @@
 Data gathered from study named: Human Activity Recognition Using Smartphones Data Set
 
-The information provided is from the link, see assignment notes for details
+The information provided is from the website link where the study's data published gathered, see assignment notes for details
+
+Steps performed to properly get, organize, and form the analysis
+
+- Merge the training data and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement.
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive variable names.
+- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Data Set Information:
 
